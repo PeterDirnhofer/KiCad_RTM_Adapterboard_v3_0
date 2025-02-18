@@ -1,0 +1,54 @@
+** Drc report for C:/Users/peter/OneDrive/500_rtm_shared/KiCad6/_projects/Adapterboard3_0 Opamp4/Adapterboard.kicad_pcb **
+** Created on 2023-06-18 13:31:21 **
+
+** Found 11 DRC violations **
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(102.8700 mm, 114.9450 mm): PTH pad 2 [GND] of C106
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(124.4300 mm, 120.0350 mm): PTH pad 2 [GND] of C103
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(98.4200 mm, 58.4200 mm): PTH pad 1 [GND] of D102
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(117.4750 mm, 117.4750 mm): PTH pad 1 [GND] of C107
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(128.2800 mm, 120.0250 mm): PTH pad 3 [GND] of U101
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(117.4750 mm, 117.4750 mm): PTH pad 1 [GND] of C107
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(93.3400 mm, 58.4200 mm): PTH pad 1 [GND] of D101
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(75.5650 mm, 73.6550 mm): PTH pad 3 [GND] of J102
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(139.0650 mm, 117.4550 mm): PTH pad 1 [GND] of C102
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(106.6900 mm, 120.0250 mm): PTH pad 3 [GND] of U105
+[starved_thermal]: Thermal relief connection to zone incomplete (board setup constraints zone fill strategy min spoke count 2; actual 1)
+    Rule: board setup constraints zone fill strategy; Severity: error
+    @(144.0000 mm, 145.0000 mm): Zone [GND] on F.Cu and 1 more
+    @(85.7000 mm, 48.9200 mm): PTH pad 2 [GND] of U107
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Adapterboard")(type "KiCad")(uri "${KIPRJMOD}/libraries/Adapterboard.pretty")(options "")(descr ""))
+  (lib (name "2023-02-22_16-58-10")(type "KiCad")(uri "${KIPRJMOD}/libraries/2023-02-22_16-58-10.pretty")(options "")(descr ""))
+  (lib (name "3296-W")(type "KiCad")(uri "${KIPRJMOD}/libraries/3296-W.pretty")(options "")(descr ""))
+  (lib (name "CP2102_USB")(type "KiCad")(uri "${KIPRJMOD}/libraries/CP2102_USB.pretty")(options "")(descr ""))
+  (lib (name "Mikroe")(type "KiCad")(uri "${KIPRJMOD}/libraries/Mikroe.pretty")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "${KIPRJMOD}/libraries/ESP32-DEVKITC-32D.pretty")(options "")(descr ""))
+)

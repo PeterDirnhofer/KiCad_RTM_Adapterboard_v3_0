@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "2023-02-22_17-26-47")(type "KiCad")(uri "${KIPRJMOD}/libraries/2023-02-22_16-58-10.pretty/2023-02-22_17-26-47.kicad_sym")(options "")(descr ""))
+  (lib (name "3296-W")(type "KiCad")(uri "${KIPRJMOD}/libraries/3296-W.pretty/3296-W.kicad_sym")(options "")(descr ""))
+  (lib (name "CP2102_USB")(type "KiCad")(uri "${KIPRJMOD}/libraries/CP2102_USB.pretty/CP2102_USB.kicad_sym")(options "")(descr ""))
+  (lib (name "mikroe")(type "KiCad")(uri "${KIPRJMOD}/libraries/Mikroe.pretty/mikroe.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "${KIPRJMOD}/libraries/ESP32-DEVKITC-32D.pretty/ESP32-DEVKITC-32D.kicad_sym")(options "")(descr ""))
+  (lib (name "mint")(type "KiCad")(uri "${KIPRJMOD}/libraries/mint.kicad_sym")(options "")(descr ""))
+  (lib (name "UniRegensburg")(type "KiCad")(uri "${KIPRJMOD}/libraries/UniRegensburg.kicad_sym")(options "")(descr ""))
+  (lib (name "OTH")(type "KiCad")(uri "${KIPRJMOD}/libraries/OTH.kicad_sym")(options "")(descr ""))
+)
