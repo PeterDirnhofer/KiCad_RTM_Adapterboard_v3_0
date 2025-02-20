@@ -745,7 +745,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x01_Pin"
+		(property "Value" "1xPin"
 			(at 0 2.33 -90)
 			(layer "F.Fab")
 			(uuid "10ba5485-ca84-4b56-af7b-9944f484b1f4")
@@ -951,7 +951,7 @@
 			(uuid "ab5421bd-a593-4b7c-8d96-37e78c94b7e0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at -0.23 -3.225 0)
 			(layer "F.Fab")
 			(uuid "42881f2a-3134-4733-9d06-92eaddb6eec4")
 			(effects
@@ -1572,7 +1572,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mikroe.com/dac-2-click"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1584,7 +1584,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MIKROE DAC 2 CLICK 16 bit DAC wirh LTC2601"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2201,7 +2201,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.reichelt.de/de/de/shop/produkt/leiterplattenklemme_2_polig_rm_2_54_mm-276214?PROVID=2788&gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHal5xTnKnBgdLY6WmmCnl3_esX6RiSlgn1cEoWoG2r5Xr17Bj39ZyN8aAlpDEALw_wcB"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2213,7 +2213,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "PCB terminal block 2.54 mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2901,7 +2901,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
-		(path "/734d5d2f-ba81-48c4-937b-ca216f626d21")
+		(path "/349f05ad-09aa-4ab2-bba6-dcc653e8a501")
 		(sheetname "Root")
 		(sheetfile "Adapterboard.kicad_sch")
 		(attr through_hole)
@@ -3732,7 +3732,7 @@
 				)
 			)
 		)
-		(property "Value" "LED_GREEN"
+		(property "Value" "GREEN"
 			(at -1.905 0.635 180)
 			(layer "F.Fab")
 			(uuid "f375badf-72e4-421c-a140-f5d78e982a40")
@@ -3921,7 +3921,7 @@
 			(uuid "f39dd796-fcbc-4387-a8a8-70a592a856d4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 90)
+			(at 3.81 0 180)
 			(layer "F.Fab")
 			(uuid "e8b759a1-574e-46ba-af21-086af133ae06")
 			(effects
@@ -4548,7 +4548,7 @@
 			(uuid "c2db19ed-fdb3-43a0-8870-a05c353f3e49")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 90)
+			(at 4.425 0 180)
 			(layer "F.Fab")
 			(uuid "79ba7133-69f2-4bbd-b0f9-878e7215d03a")
 			(effects
@@ -4904,7 +4904,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mikroe.com/dac-2-click"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4916,7 +4916,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MIKROE DAC 2 CLICK 16 bit DAC wirh LTC2601"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5394,8 +5394,8 @@
 				)
 			)
 		)
-		(property "Value" "LED_RED"
-			(at -1.865 -2.565 180)
+		(property "Value" "RED"
+			(at -1.865 -1.295 180)
 			(layer "F.Fab")
 			(uuid "5bf5c7dd-5ef1-4b66-8e8c-98bcc1dc6a58")
 			(effects
@@ -5583,7 +5583,7 @@
 			(uuid "e0976321-0e7c-40ba-884d-6e5b4bdf247e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 90)
+			(at 3.85 -0.025 180)
 			(layer "F.Fab")
 			(uuid "73a03c55-a1de-44c6-a213-ec7f1034a8da")
 			(effects
@@ -6365,7 +6365,7 @@
 			)
 		)
 		(property "Value" "4n7"
-			(at 1.25 2.5 0)
+			(at 1.25 -1.905 0)
 			(layer "F.Fab")
 			(uuid "8edb4813-712d-4b94-b345-de5fdb6d6a69")
 			(effects
@@ -6540,7 +6540,7 @@
 			(uuid "1b63ce7e-da27-4bbf-96c3-cbaff6dc6edb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at -1.925 0 90)
 			(layer "F.Fab")
 			(uuid "a68d6e08-5b2b-4450-95ad-099b6aa3c642")
 			(effects
@@ -6600,7 +6600,7 @@
 			)
 		)
 		(property "Value" "4n7"
-			(at 1.25 -2.54 0)
+			(at 1.25 1.905 0)
 			(layer "F.Fab")
 			(uuid "bc567249-50ec-4197-b021-a7f6d96d7dea")
 			(effects
@@ -6775,7 +6775,7 @@
 			(uuid "d1c44b0f-288b-4209-9fec-c308866ada2b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at -2.56 0 90)
 			(layer "F.Fab")
 			(uuid "75330af5-5474-442f-9151-6854f69d8a20")
 			(effects
@@ -6855,7 +6855,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mikroe.com/dac-2-click"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6867,7 +6867,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MIKROE DAC 2 CLICK 16 bit DAC wirh LTC2601"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7346,7 +7346,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 1.25 -2.54 0)
+			(at 1.25 1.905 0)
 			(layer "F.Fab")
 			(uuid "af3bc759-85c5-4093-994d-8a6d0be62ac9")
 			(effects
@@ -7521,7 +7521,7 @@
 			(uuid "0093a774-02be-4b10-b1dc-9fbbc6e7aa26")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at -1.925 0 90)
 			(layer "F.Fab")
 			(uuid "d4f666ac-6c15-4e2b-a615-eeb54b981363")
 			(effects
@@ -7580,7 +7580,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x01_Pin"
+		(property "Value" "1xPin"
 			(at 0 2.33 -90)
 			(layer "F.Fab")
 			(uuid "f25e0d5a-28be-4d87-aa35-cd036c8b0b6e")
@@ -7786,7 +7786,7 @@
 			(uuid "2af8c24a-844c-43ee-9332-d945321bc554")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.43 -3.225 0)
 			(layer "F.Fab")
 			(uuid "e438f471-d1ec-402d-9dbf-ba381fade0ce")
 			(effects
@@ -8025,7 +8025,7 @@
 			(uuid "b65781a0-8a32-4d31-9185-830d10f9c768")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 90)
+			(at 3.85 0 180)
 			(layer "F.Fab")
 			(uuid "53dd6e4d-fc40-4be3-89d4-93fa89d6a15d")
 			(effects
@@ -8087,7 +8087,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 1.25 2.5 0)
+			(at 1.25 -1.905 0)
 			(layer "F.Fab")
 			(uuid "9eeb1433-62f7-41d1-8e94-2fa53850897f")
 			(effects
@@ -8262,7 +8262,7 @@
 			(uuid "deab471d-c48f-4f02-b6e9-0fe0a5939e6a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at -2.56 0 90)
 			(layer "F.Fab")
 			(uuid "3ed61762-c977-431e-afb3-ac5cf38f21fd")
 			(effects
@@ -9010,7 +9010,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 1.25 -2.67 0)
+			(at 1.25 1.775 0)
 			(layer "F.Fab")
 			(uuid "32540f26-59b8-42b2-9470-51da0d1eb7de")
 			(effects
@@ -9185,7 +9185,7 @@
 			(uuid "bb4374ac-c2c2-46bb-8f70-5cdca7bd388b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at -2.56 0 90)
 			(layer "F.Fab")
 			(uuid "4726f61c-e61b-462e-acb7-eed73c3556ae")
 			(effects
@@ -9360,7 +9360,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x01_Pin"
+		(property "Value" "1xPin"
 			(at 0 2.33 -90)
 			(layer "F.Fab")
 			(uuid "095d0369-2f61-4cfb-8a15-a59d868819f4")
@@ -9566,7 +9566,7 @@
 			(uuid "90310bbb-ca62-481a-995e-db1e59202942")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 -3.225 0)
 			(layer "F.Fab")
 			(uuid "9a4baf0c-3229-4242-b4f9-abd394878206")
 			(effects
@@ -9805,7 +9805,7 @@
 			(uuid "11902bef-7ddc-4534-9c6a-da54dcbe042e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 90)
+			(at 3.85 0 180)
 			(layer "F.Fab")
 			(uuid "e9f7fb52-504d-42f3-8725-cc1de3624d29")
 			(effects
@@ -9867,7 +9867,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 1.25 2.5 0)
+			(at 1.25 -2.015 0)
 			(layer "F.Fab")
 			(uuid "3df63332-eef9-47e4-a7af-8fafb5b48266")
 			(effects
@@ -10042,7 +10042,7 @@
 			(uuid "8d8ef1d5-d0f5-4a97-9b31-b45ef20ca6f3")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at -2.115 -0.11 90)
 			(layer "F.Fab")
 			(uuid "c80fc2c7-e344-424f-b0f0-aa0322f2139e")
 			(effects
@@ -10674,7 +10674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.reichelt.de/de/de/shop/produkt/leiterplattenklemme_3_polig_rm_2_54_mm-276215"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10686,7 +10686,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "PCB terminal block 2.54 mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11091,7 +11091,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 5.08 2.37 0)
+			(at -2.47 0.08 0)
 			(layer "F.Fab")
 			(uuid "2d380f26-1900-4a97-967f-b1ddb4787cf0")
 			(effects
@@ -11641,7 +11641,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 5.08 2.37 0)
+			(at -2.47 0.11 0)
 			(layer "F.Fab")
 			(uuid "4caf84cb-248f-4ce7-9161-376b82f8497f")
 			(effects
@@ -12180,7 +12180,7 @@
 		(descr "Through hole straight pin header, 1x10, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x10 2.54mm single row")
 		(property "Reference" "U101"
-			(at 0 -2.33 0)
+			(at 0 25.395 0)
 			(layer "F.SilkS")
 			(uuid "58a5c184-1556-45da-9ce5-708f7a95bb4b")
 			(effects
@@ -12190,7 +12190,7 @@
 				)
 			)
 		)
-		(property "Value" "ADS1115A"
+		(property "Value" "ADS1115A(optional)"
 			(at 0 25.19 0)
 			(layer "F.Fab")
 			(uuid "3963468a-5bff-4679-a777-6d0b467f9ce2")
@@ -12214,7 +12214,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.az-delivery.de/products/analog-digitalwandler-ads1115-mit-i2c-interface"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12227,7 +12227,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ADS1115 ADC Modul"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12395,7 +12395,7 @@
 			(uuid "8f3a2eac-2482-4c7f-b97b-5dae7cdae243")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 11.43 90)
+			(at 0 -1.91 180)
 			(layer "F.Fab")
 			(uuid "c0fcd9c6-2d66-4ca8-9400-f2d329303948")
 			(effects
@@ -12821,7 +12821,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 5.08 2.37 0)
+			(at -2.47 0.055 0)
 			(layer "F.Fab")
 			(uuid "69e5541c-80a8-4371-a8fa-2e5b944f5294")
 			(effects
@@ -13096,7 +13096,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 5.08 2.37 0)
+			(at -2.47 0.135 0)
 			(layer "F.Fab")
 			(uuid "df43a075-3041-4945-9ae7-b5a9e6a99897")
 			(effects
@@ -13391,7 +13391,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.de/de/products/detail/espressif-systems/ESP32-DEVKITC-32D/9356990?srsltid=AfmBOoqynlQJj8CTH-KiqoDH4_nHHIFVtljgMt73KPkrykwodnIYq0t1"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -14086,7 +14086,7 @@
 		(descr "LED, diameter 3.0mm, 2 pins, clear, generated by kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D109"
-			(at 1.27 -2.96 0)
+			(at 2.83 -2.96 0)
 			(layer "F.SilkS")
 			(uuid "0734ffa0-bdcc-4e15-9945-6fc097826147")
 			(effects
@@ -14285,7 +14285,7 @@
 			(uuid "0de6b010-ce50-4efe-ac08-e107c9c8bb5d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 0)
+			(at 1.27 -2.39 0)
 			(layer "F.Fab")
 			(uuid "93c2fc33-c025-4ca9-b016-530ce09bc37c")
 			(effects
@@ -14347,7 +14347,7 @@
 			)
 		)
 		(property "Value" "4n7"
-			(at 1.25 2.5 0)
+			(at 0.615 -2.015 0)
 			(layer "F.Fab")
 			(uuid "560d39dc-a6a8-48a9-8688-514795313f49")
 			(effects
@@ -14522,7 +14522,7 @@
 			(uuid "c2f8621e-bb15-4af5-8604-1e4692fa7972")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at 4.425 0 90)
 			(layer "F.Fab")
 			(uuid "92f3da94-5b74-4545-b9d5-e219e123afd4")
 			(effects
@@ -14857,7 +14857,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 5.08 2.47 0)
+			(at 14.605 -0.27 0)
 			(layer "F.Fab")
 			(uuid "9799e17a-f78f-40e6-b6f8-648a8e9a7b6e")
 			(effects
@@ -15491,7 +15491,7 @@
 			)
 		)
 		(property "Value" "4n7"
-			(at 1.25 2.5 0)
+			(at 1.25 -1.775 0)
 			(layer "F.Fab")
 			(uuid "9dd11153-4988-45ae-b423-01b6a9a4131f")
 			(effects
@@ -15666,7 +15666,7 @@
 			(uuid "fb634bcd-c3df-426e-82bf-ac714ed5a760")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 0)
+			(at -2.56 0 90)
 			(layer "F.Fab")
 			(uuid "0fb573c4-faef-4f2e-a71e-cc24ba8c56fa")
 			(effects
@@ -15725,7 +15725,7 @@
 				)
 			)
 		)
-		(property "Value" "LED_YELLOW"
+		(property "Value" "YELLOW"
 			(at -1.905 -0.08 180)
 			(layer "F.Fab")
 			(uuid "c1864677-1a90-45d8-a6fc-e895ad1a442f")
@@ -15914,7 +15914,7 @@
 			(uuid "25acf9fa-e128-4459-8cbd-48bac50fab75")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 90)
+			(at 3.81 0 180)
 			(layer "F.Fab")
 			(uuid "78975b0d-d16f-4920-b26e-3eae3754b317")
 			(effects
@@ -16240,7 +16240,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J110"
-			(at 0.619 -3.429 180)
+			(at -0.27 -2.54 -90)
 			(layer "F.SilkS")
 			(uuid "76875490-4790-4696-8db8-ecf2d9e836ad")
 			(effects
@@ -16250,8 +16250,8 @@
 				)
 			)
 		)
-		(property "Value" "TUNNEL_1"
-			(at -2.175 1.27 180)
+		(property "Value" "2xPin"
+			(at 2.27 1.27 180)
 			(layer "F.Fab")
 			(uuid "984b22b7-98ba-4655-a47f-11710878aa2b")
 			(effects
@@ -16456,7 +16456,7 @@
 			(uuid "36f9c617-4af9-456d-86e9-36115bcad22b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 1.27 0)
+			(at 0.365 -1.905 90)
 			(layer "F.Fab")
 			(uuid "3fdb2d83-da48-461f-a027-c476503d0064")
 			(effects
@@ -16540,7 +16540,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.reichelt.de/de/de/shop/produkt/leiterplattenklemme_5_polig_rm_2_54_mm-276217"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16552,7 +16552,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "PCB terminal block 2.54 mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17041,7 +17041,7 @@
 			)
 		)
 		(property "Value" "LED_-15V"
-			(at -0.935 -0.485 90)
+			(at -1.57 -0.485 90)
 			(layer "F.Fab")
 			(uuid "7aebda83-ad30-44f6-b9af-1116519abf82")
 			(effects
@@ -17229,7 +17229,7 @@
 			(uuid "5c8b5845-7d30-40eb-a208-561c4a612eb1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 0 0)
+			(at 1.605 -2.39 0)
 			(layer "F.Fab")
 			(uuid "ce577646-6b8b-4383-a641-7b9d09d66927")
 			(effects
@@ -17466,7 +17466,7 @@
 			(uuid "3012e41f-d24b-435e-9555-385dbfa9e8ac")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 0 90)
+			(at 1.25 2.06 90)
 			(layer "F.Fab")
 			(uuid "1b1910d6-b87b-4a06-aedd-b60bd6c4988e")
 			(effects
@@ -17526,7 +17526,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 5.08 2.47 0)
+			(at 14.605 0 0)
 			(layer "F.Fab")
 			(uuid "5d618b8e-47f1-477e-a8a9-23ace7f15cb9")
 			(effects
@@ -17885,7 +17885,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 5.08 2.37 0)
+			(at -2.47 0.025 0)
 			(layer "F.Fab")
 			(uuid "f4605282-41e7-43ce-beb5-14f27ed052a0")
 			(effects
@@ -19031,7 +19031,7 @@
 			(uuid "44265e66-7697-4e3d-8bb9-b674f634ffff")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 3.81 0)
+			(at 0 -3.77 0)
 			(layer "F.Fab")
 			(uuid "6813704e-7a67-4ffb-82be-a57d250adf86")
 			(effects
@@ -19412,7 +19412,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.reichelt.de/de/de/shop/produkt/leiterplattenklemme_2_polig_rm_2_54_mm-276214?PROVID=2788&gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHal5xTnKnBgdLY6WmmCnl3_esX6RiSlgn1cEoWoG2r5Xr17Bj39ZyN8aAlpDEALw_wcB"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19424,7 +19424,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "PCB terminal block 2.54 mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20061,8 +20061,8 @@
 				)
 			)
 		)
-		(property "Value" "JTAG"
-			(at 0 12.49 90)
+		(property "Value" "JTAG(optional)"
+			(at -2.54 5.715 180)
 			(layer "F.Fab")
 			(uuid "224fbfb3-ff43-4dc5-80d1-1b641d581fdc")
 			(effects
@@ -20098,7 +20098,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "JTAG Connector for Debbugging ESP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20266,17 +20266,6 @@
 			(layer "F.Fab")
 			(uuid "7d039468-926f-4e13-9cbf-db8b10fcbf6f")
 		)
-		(fp_text user "Not mount"
-			(at 0 5.08 0)
-			(layer "F.Fab")
-			(uuid "f91c7583-1c23-4541-a63f-472412cf08dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "1" thru_hole rect
 			(at 0 0 90)
 			(size 1.7 1.7)
@@ -20385,7 +20374,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.reichelt.de/de/de/shop/produkt/leiterplattenklemme_2_polig_rm_2_54_mm-276214?PROVID=2788&gad_source=1&gclid=Cj0KCQiAwtu9BhC8ARIsAI9JHal5xTnKnBgdLY6WmmCnl3_esX6RiSlgn1cEoWoG2r5Xr17Bj39ZyN8aAlpDEALw_wcB"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20397,7 +20386,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "PCB terminal block 2.54 mm"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20863,7 +20852,7 @@
 		(uuid "fed65741-af2d-45b5-86b3-c5811f45a4ac")
 		(at 135.89 98.82)
 		(property "Reference" "U107"
-			(at 0 -8.89 0)
+			(at -2.54 -4.205 0)
 			(layer "F.SilkS")
 			(uuid "c1ed9b42-39b7-4cae-b272-baf2e2144341")
 			(effects
@@ -20909,7 +20898,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MICROE ADC 8 CLICK 16 bit with ADS1115"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21412,13 +21401,14 @@
 		(uuid "e1cce1ee-c372-4192-9fd9-dc03ec0df338")
 	)
 	(gr_text "-15V"
-		(at 88.519 54.483 90)
+		(at 96.52 54.61 90)
 		(layer "F.SilkS")
 		(uuid "15849d93-7239-46d2-9aac-1851759c634c")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21430,7 +21420,7 @@
 		(effects
 			(font
 				(size 1.5 1.5)
-				(thickness 0.25)
+				(thickness 0.3)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -21455,7 +21445,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21491,7 +21482,7 @@
 		(effects
 			(font
 				(size 1.5 1.5)
-				(thickness 0.25)
+				(thickness 0.3)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -21521,7 +21512,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Adafruit ADS1115 (optional)"
+	(gr_text "ADS1115 ADC Modul(optional)"
 		(at 139.7 107.95 90)
 		(layer "F.SilkS")
 		(uuid "4d62c690-9f0a-40a4-ab39-3c8693ac2a5e")
@@ -21540,7 +21531,7 @@
 		(effects
 			(font
 				(size 1.5 1.5)
-				(thickness 0.25)
+				(thickness 0.3)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -21553,7 +21544,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21577,7 +21569,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21619,14 +21612,15 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "TUNNEL VCC"
-		(at 119.634 59.69 90)
+	(gr_text "TUNNEL amp VCC"
+		(at 119.634 63.5 90)
 		(layer "F.SilkS")
 		(uuid "72e54ce1-427b-4018-9d02-61fc0227ffab")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21662,7 +21656,7 @@
 		(effects
 			(font
 				(size 1.5 1.5)
-				(thickness 0.25)
+				(thickness 0.3)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -21687,7 +21681,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21729,13 +21724,14 @@
 		)
 	)
 	(gr_text "USB"
-		(at 102.489 53.594 90)
+		(at 103.505 53.594 90)
 		(layer "F.SilkS")
 		(uuid "a9867ba8-efbd-4ebf-9987-4d477931dd39")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21795,7 +21791,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21843,7 +21840,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21855,7 +21853,8 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -21867,7 +21866,7 @@
 		(effects
 			(font
 				(size 1.5 1.5)
-				(thickness 0.25)
+				(thickness 0.3)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -21880,27 +21879,16 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
 	)
 	(gr_text "5xPin\n"
-		(at 106.045 60.96 0)
+		(at 106.045 59.69 0)
 		(layer "F.Fab")
 		(uuid "4bf6f50e-964c-437c-9690-9c091b05f019")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "2*Pin"
-		(at 141.605 65.405 0)
-		(layer "F.Fab")
-		(uuid "d8b3823e-45b9-4a5b-af23-149c849801ef")
 		(effects
 			(font
 				(size 1 1)
