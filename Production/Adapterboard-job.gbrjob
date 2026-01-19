@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.8"
+      "Version": "9.0.6"
     },
-    "CreationDate": "2025-02-20T12:08:55+01:00"
+    "CreationDate": "2026-01-19T15:54:32+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Adapterboard",
       "GUID": "41646170-7465-4726-926f-6172642e6b69",
-      "Revision": "3.0"
+      "Revision": "3.0.1"
     },
     "Size": {
       "X": 100.05,
@@ -59,8 +59,23 @@
       "FilePolarity": "Negative"
     },
     {
+      "Path": "Adapterboard-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "Adapterboard-Edge_Cuts.gbr",
       "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Adapterboard-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Adapterboard-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
       "FilePolarity": "Positive"
     }
   ],
