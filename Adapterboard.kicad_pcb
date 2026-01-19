@@ -9,8 +9,8 @@
 	(paper "A4")
 	(title_block
 		(title "500 EUR STM Adapterboard")
-		(date "2025-02-18")
-		(rev "3.0")
+		(date "2026-01-19")
+		(rev "3.0.1")
 		(company "Univerität Regensburg")
 	)
 	(layers
@@ -41,8 +41,8 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
-			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
+			(layerselection 0x00000000_00000000_5555555f_ff5d557f)
+			(plot_on_all_layers_selection 0x00000000_00000000_0000000a_aa08002f)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -75,9 +75,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Production/")
 		)
 	)
 	(net 0 "")
@@ -20680,7 +20680,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "500 € STM\nVer 3.0 FEB 2025"
+	(gr_text "500 € STM\nVer 3.0.1 JAN 2026"
 		(at 58.42 147.955 0)
 		(layer "F.SilkS")
 		(uuid "68926094-d0de-4190-9d12-569101afcf5c")
